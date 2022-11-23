@@ -1,16 +1,16 @@
 ![tun2socks](docs/wordmark.png)
 
-[![GitHub Workflow][1]](https://github.com/xjasonlyu/tun2socks/actions)
-[![Go Version][2]](https://github.com/xjasonlyu/tun2socks/blob/main/go.mod)
-[![Go Report][3]](https://goreportcard.com/badge/github.com/xjasonlyu/tun2socks)
+[![GitHub Workflow][1]](https://github.com/PIngBZ/tun2socks/actions)
+[![Go Version][2]](https://github.com/PIngBZ/tun2socks/blob/main/go.mod)
+[![Go Report][3]](https://goreportcard.com/badge/github.com/PIngBZ/tun2socks)
 [![Maintainability][4]](https://codeclimate.com/github/xjasonlyu/tun2socks/maintainability)
-[![GitHub License][5]](https://github.com/xjasonlyu/tun2socks/blob/main/LICENSE)
+[![GitHub License][5]](https://github.com/PIngBZ/tun2socks/blob/main/LICENSE)
 [![Docker Pulls][6]](https://hub.docker.com/r/xjasonlyu/tun2socks)
-[![Releases][7]](https://github.com/xjasonlyu/tun2socks/releases)
+[![Releases][7]](https://github.com/PIngBZ/tun2socks/releases)
 
 [1]: https://img.shields.io/github/workflow/status/xjasonlyu/tun2socks/Go?logo=github
 [2]: https://img.shields.io/github/go-mod/go-version/xjasonlyu/tun2socks?logo=go
-[3]: https://goreportcard.com/badge/github.com/xjasonlyu/tun2socks
+[3]: https://goreportcard.com/badge/github.com/PIngBZ/tun2socks
 [4]: https://api.codeclimate.com/v1/badges/b5b30239174fc6603aca/maintainability
 [5]: https://img.shields.io/github/license/xjasonlyu/tun2socks
 [6]: https://img.shields.io/docker/pulls/xjasonlyu/tun2socks?logo=docker
@@ -29,21 +29,21 @@
 
 ## 性能测试
 
-对于任意的使用场景，tun2socks 表现最佳。更多细节看[这里](https://github.com/xjasonlyu/tun2socks/wiki/Benchmarks)。
+对于任意的使用场景，tun2socks 表现最佳。更多细节看[这里](https://github.com/PIngBZ/tun2socks/wiki/Benchmarks)。
 
 ![benchmark](docs/benchmark.png)
 
 ## 使用文档
 
-- [源码安装](https://github.com/xjasonlyu/tun2socks/wiki/Install-from-Source)
-- [使用例子](https://github.com/xjasonlyu/tun2socks/wiki/Examples)
-- [内存优化](https://github.com/xjasonlyu/tun2socks/wiki/Memory-Optimization)
+- [源码安装](https://github.com/PIngBZ/tun2socks/wiki/Install-from-Source)
+- [使用例子](https://github.com/PIngBZ/tun2socks/wiki/Examples)
+- [内存优化](https://github.com/PIngBZ/tun2socks/wiki/Memory-Optimization)
 
-文档以及使用方式可以在 [Wiki](https://github.com/xjasonlyu/tun2socks/wiki) 里找到。
+文档以及使用方式可以在 [Wiki](https://github.com/PIngBZ/tun2socks/wiki) 里找到。
 
 ## 交流讨论
 
-欢迎来讨论区 [Discussions](https://github.com/xjasonlyu/tun2socks/discussions) 交流提问。
+欢迎来讨论区 [Discussions](https://github.com/PIngBZ/tun2socks/discussions) 交流提问。
 
 ## 特别感谢
 
@@ -53,7 +53,7 @@
 
 ## 许可协议
 
-[GPL-3.0](https://github.com/xjasonlyu/tun2socks/blob/main/LICENSE)
+[GPL-3.0](https://github.com/PIngBZ/tun2socks/blob/main/LICENSE)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxjasonlyu%2Ftun2socks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxjasonlyu%2Ftun2socks?ref=badge_large)
 

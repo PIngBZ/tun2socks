@@ -5,8 +5,8 @@ import (
 	"errors"
 	"net"
 
-	M "github.com/xjasonlyu/tun2socks/v2/metadata"
-	"github.com/xjasonlyu/tun2socks/v2/proxy/proto"
+	M "github.com/PIngBZ/tun2socks/v2/metadata"
+	"github.com/PIngBZ/tun2socks/v2/proxy/proto"
 )
 
 var _ Proxy = (*Base)(nil)

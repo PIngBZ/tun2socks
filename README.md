@@ -1,16 +1,16 @@
 ![tun2socks](docs/wordmark.png)
 
-[![GitHub Workflow][1]](https://github.com/xjasonlyu/tun2socks/actions)
-[![Go Version][2]](https://github.com/xjasonlyu/tun2socks/blob/main/go.mod)
-[![Go Report][3]](https://goreportcard.com/badge/github.com/xjasonlyu/tun2socks)
+[![GitHub Workflow][1]](https://github.com/PIngBZ/tun2socks/actions)
+[![Go Version][2]](https://github.com/PIngBZ/tun2socks/blob/main/go.mod)
+[![Go Report][3]](https://goreportcard.com/badge/github.com/PIngBZ/tun2socks)
 [![Maintainability][4]](https://codeclimate.com/github/xjasonlyu/tun2socks/maintainability)
-[![GitHub License][5]](https://github.com/xjasonlyu/tun2socks/blob/main/LICENSE)
+[![GitHub License][5]](https://github.com/PIngBZ/tun2socks/blob/main/LICENSE)
 [![Docker Pulls][6]](https://hub.docker.com/r/xjasonlyu/tun2socks)
-[![Releases][7]](https://github.com/xjasonlyu/tun2socks/releases)
+[![Releases][7]](https://github.com/PIngBZ/tun2socks/releases)
 
 [1]: https://img.shields.io/github/workflow/status/xjasonlyu/tun2socks/Go?logo=github
 [2]: https://img.shields.io/github/go-mod/go-version/xjasonlyu/tun2socks?logo=go
-[3]: https://goreportcard.com/badge/github.com/xjasonlyu/tun2socks
+[3]: https://goreportcard.com/badge/github.com/PIngBZ/tun2socks
 [4]: https://api.codeclimate.com/v1/badges/b5b30239174fc6603aca/maintainability
 [5]: https://img.shields.io/github/license/xjasonlyu/tun2socks
 [6]: https://img.shields.io/docker/pulls/xjasonlyu/tun2socks?logo=docker
@@ -29,21 +29,21 @@ English | [简体中文](README_ZH.md)
 
 ## Benchmarks
 
-For all scenarios of usage, tun2socks performs best. See [here](https://github.com/xjasonlyu/tun2socks/wiki/Benchmarks) for more details.
+For all scenarios of usage, tun2socks performs best. See [here](https://github.com/PIngBZ/tun2socks/wiki/Benchmarks) for more details.
 
 ![benchmark](docs/benchmark.png)
 
 ## Documentation
 
-- [Install from Source](https://github.com/xjasonlyu/tun2socks/wiki/Install-from-Source)
-- [Quickstart Examples](https://github.com/xjasonlyu/tun2socks/wiki/Examples)
-- [Memory Optimization](https://github.com/xjasonlyu/tun2socks/wiki/Memory-Optimization)
+- [Install from Source](https://github.com/PIngBZ/tun2socks/wiki/Install-from-Source)
+- [Quickstart Examples](https://github.com/PIngBZ/tun2socks/wiki/Examples)
+- [Memory Optimization](https://github.com/PIngBZ/tun2socks/wiki/Memory-Optimization)
 
-Full documentation and technical guides can be found at [Wiki](https://github.com/xjasonlyu/tun2socks/wiki).
+Full documentation and technical guides can be found at [Wiki](https://github.com/PIngBZ/tun2socks/wiki).
 
 ## Community
 
-Welcome and feel free to ask any questions at [Discussions](https://github.com/xjasonlyu/tun2socks/discussions).
+Welcome and feel free to ask any questions at [Discussions](https://github.com/PIngBZ/tun2socks/discussions).
 
 ## Credits
 
@@ -53,7 +53,7 @@ Welcome and feel free to ask any questions at [Discussions](https://github.com/x
 
 ## License
 
-[GPL-3.0](https://github.com/xjasonlyu/tun2socks/blob/main/LICENSE)
+[GPL-3.0](https://github.com/PIngBZ/tun2socks/blob/main/LICENSE)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxjasonlyu%2Ftun2socks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxjasonlyu%2Ftun2socks?ref=badge_large)
 

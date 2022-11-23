@@ -3,7 +3,7 @@ package log
 import (
 	"os"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"go.uber.org/atomic"
 )
 

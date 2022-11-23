@@ -1,7 +1,7 @@
 package tunnel
 
 import (
-	"github.com/xjasonlyu/tun2socks/v2/core/adapter"
+	"github.com/PIngBZ/tun2socks/v2/core/adapter"
 )
 
 // Unbuffered TCP/UDP queues.

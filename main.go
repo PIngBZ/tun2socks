@@ -10,10 +10,10 @@ import (
 	"go.uber.org/automaxprocs/maxprocs"
 	"gopkg.in/yaml.v3"
 
-	_ "github.com/xjasonlyu/tun2socks/v2/dns"
-	"github.com/xjasonlyu/tun2socks/v2/engine"
-	"github.com/xjasonlyu/tun2socks/v2/internal/version"
-	"github.com/xjasonlyu/tun2socks/v2/log"
+	_ "github.com/PIngBZ/tun2socks/v2/dns"
+	"github.com/PIngBZ/tun2socks/v2/engine"
+	"github.com/PIngBZ/tun2socks/v2/internal/version"
+	"github.com/PIngBZ/tun2socks/v2/log"
 )
 
 var (
@@ -28,7 +28,7 @@ func init() {
 	flag.IntVar(&key.MTU, "mtu", 0, "Set device maximum transmission unit (MTU)")
 	flag.DurationVar(&key.UDPTimeout, "udp-timeout", 0, "Set timeout for each UDP session")
 	flag.StringVar(&configFile, "config", "", "YAML format configuration file")
-	flag.StringVar(&key.Device, "device", "", "Use this device [driver://]name")
+	flag.StringVar(&key.Device, "device", "", "Use this device [driver://]name?params")
 	flag.StringVar(&key.Interface, "interface", "", "Use network INTERFACE (Linux/MacOS only)")
 	flag.StringVar(&key.LogLevel, "loglevel", "info", "Log level [debug|info|warning|error|silent]")
 	flag.StringVar(&key.Proxy, "proxy", "", "Use this proxy [protocol://]host[:port]")

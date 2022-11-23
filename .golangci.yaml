@@ -10,7 +10,7 @@ linters-settings:
   gci:
     sections:
       - standard
-      - prefix(github.com/xjasonlyu/tun2socks)
+      - prefix(github.com/PIngBZ/tun2socks)
       - default
   staticcheck:
     go: '1.19'

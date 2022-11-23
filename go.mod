@@ -1,4 +1,4 @@
-module github.com/xjasonlyu/tun2socks/v2
+module github.com/PIngBZ/tun2socks/v2
 
 go 1.19
 
@@ -22,6 +22,8 @@ require (
 )
 
 require (
+	github.com/LLParse/win-route v0.0.0-20171006193000-9106bec311ea // indirect
+	github.com/Sirupsen/logrus v1.0.6 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/btree v1.1.2 // indirect
@@ -29,5 +31,6 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/term v0.1.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20211104114900-415007cec224 // indirect
 )
